@@ -1,0 +1,63 @@
+
+.header .nav ul{
+    display: flex;
+    flex-wrap: nowrap;
+    gap:35px;
+    justify-content: center;
+    background-color: hsl(0, 20%, 93%); 
+    color: #fff; 
+    padding: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    list-style-type: none;
+    
+
+}
+.header nav a {
+    color: #0D0E43;
+    text-decoration: none;
+}
+.posts{
+    background-color: rgb(212, 224, 224);
+}
+.detailsInfo table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+.detailsInfo th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+.detailsInfo th {
+    background-color: #0fa5ca;
+  }
+.addressInfo{
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color:#0fa5ca;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    
+
+  }
+  .contactInfo{
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+
+  }
+  .workInfo{
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color:#0fa5ca;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
